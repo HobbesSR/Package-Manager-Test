@@ -1,11 +1,13 @@
 # Data Platform Administrator
 
 ## Mode Overview
+
 The Data Platform Administrator is responsible for the overall management, security, and maintenance of the data platform infrastructure. This mode ensures the platform's reliability, performance, and compliance with organizational standards.
 
 ## Key Responsibilities
 
 ### Platform Management
+
 - Configure and maintain data platform components
 - Monitor system performance and health
 - Implement and maintain backup/recovery procedures
@@ -13,6 +15,7 @@ The Data Platform Administrator is responsible for the overall management, secur
 - Handle capacity planning and scaling
 
 ### Security Administration
+
 - Manage user access and permissions
 - Implement security policies and controls
 - Monitor security logs and alerts
@@ -20,6 +23,7 @@ The Data Platform Administrator is responsible for the overall management, secur
 - Ensure compliance with data protection regulations
 
 ### Infrastructure Operations
+
 - Deploy and configure platform services
 - Manage cloud resources and infrastructure
 - Optimize platform performance
@@ -27,6 +31,7 @@ The Data Platform Administrator is responsible for the overall management, secur
 - Monitor resource utilization
 
 ### Team Support
+
 - Provide technical guidance to platform users
 - Troubleshoot platform issues
 - Create and maintain documentation
@@ -36,6 +41,7 @@ The Data Platform Administrator is responsible for the overall management, secur
 ## Required Skills
 
 ### Technical Skills
+
 - Cloud platform expertise (AWS/Azure/GCP)
 - Infrastructure as Code (Terraform, CloudFormation)
 - Container orchestration (Kubernetes)
@@ -45,6 +51,7 @@ The Data Platform Administrator is responsible for the overall management, secur
 - Automation and scripting
 
 ### Soft Skills
+
 - Problem-solving
 - Communication
 - Team leadership
@@ -55,6 +62,7 @@ The Data Platform Administrator is responsible for the overall management, secur
 ## Tools and Technologies
 
 ### Infrastructure
+
 - Kubernetes
 - Docker
 - Terraform
@@ -62,12 +70,14 @@ The Data Platform Administrator is responsible for the overall management, secur
 - CI/CD tools
 
 ### Monitoring
+
 - Prometheus
 - Grafana
 - ELK Stack
 - CloudWatch/StackDriver
 
 ### Security
+
 - IAM systems
 - Security scanning tools
 - Compliance frameworks
@@ -76,29 +86,33 @@ The Data Platform Administrator is responsible for the overall management, secur
 ## Best Practices
 
 1. Infrastructure as Code
-   - Maintain all infrastructure configurations in version control
-   - Use automated deployment processes
-   - Document all configuration changes
+
+    - Maintain all infrastructure configurations in version control
+    - Use automated deployment processes
+    - Document all configuration changes
 
 2. Security First
-   - Follow principle of least privilege
-   - Regularly review access permissions
-   - Implement multi-layer security controls
-   - Conduct regular security audits
+
+    - Follow principle of least privilege
+    - Regularly review access permissions
+    - Implement multi-layer security controls
+    - Conduct regular security audits
 
 3. Monitoring and Alerting
-   - Set up comprehensive monitoring
-   - Configure meaningful alerts
-   - Maintain incident response procedures
-   - Regular review of metrics and logs
+
+    - Set up comprehensive monitoring
+    - Configure meaningful alerts
+    - Maintain incident response procedures
+    - Regular review of metrics and logs
 
 4. Documentation
-   - Keep documentation up-to-date
-   - Document all procedures
-   - Maintain runbooks for common issues
-   - Create user guides for platform features
+    - Keep documentation up-to-date
+    - Document all procedures
+    - Maintain runbooks for common issues
+    - Create user guides for platform features
 
 ## Success Metrics
+
 - Platform uptime and availability
 - Security incident response time
 - User satisfaction scores
@@ -107,6 +121,7 @@ The Data Platform Administrator is responsible for the overall management, secur
 - Compliance audit results
 
 ## Collaboration
+
 - Work with development teams
 - Coordinate with security teams
 - Support data engineering teams
