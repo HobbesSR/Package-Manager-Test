@@ -1,0 +1,6 @@
+name: "Corrupt Package
+description: This is another malformed YML file
+  version: 1.0.0
+author: HobbesSR Test
+module: test-module
+tags: ["data", "platform", "test"

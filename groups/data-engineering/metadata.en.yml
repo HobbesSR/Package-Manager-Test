@@ -1,6 +1,7 @@
 name: "Data Engineering Tools"
 description: "A collection of data engineering roles and tools"
 version: "1.0.0"
-author: "JB Brown"
-authorUrl: "https://www.linkedin.com/in/jbbrown1/"
+author: "HobbesSR Test"
+authorUrl: "https://example.com/hobbessr"
+module: "test-module"
 tags: ["data-engineering", "data", "analytics"]

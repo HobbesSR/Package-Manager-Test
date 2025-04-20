@@ -1,0 +1,8 @@
+name: "Invalid Type Server"
+description: "This tests invalid type enum validation"
+type: "kazoo"
+version: "1.0.0"
+author: "HobbesSR Test"
+authorUrl: "https://example.com/hobbessr"
+module: "test-module"
+tags: ["test", "validation"]

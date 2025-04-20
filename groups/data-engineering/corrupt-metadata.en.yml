@@ -1,0 +1,6 @@
+name: "Corrupt Data Engineering"
+description: "This is a malformed YML file for testing
+version: "1.0.0"
+author: "HobbesSR Test"
+  module: test-module
+tags: ["data-engineering", "data", "analytics"
