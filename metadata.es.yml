@@ -1,0 +1,6 @@
+name: "Plantilla de Gestor de Paquetes"
+description: "Un repositorio de plantilla para crear fuentes de gestor de paquetes"
+version: "1.0.0"
+author: "HobbesSR Test"
+authorUrl: "https://example.com/hobbessr"
+module: "test-module"
